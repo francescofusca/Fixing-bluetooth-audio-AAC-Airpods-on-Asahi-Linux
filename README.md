@@ -95,6 +95,23 @@ pactl list cards | grep -i "Active Profile"
 
 ---
 
+### Solution D (from a Reddit user)
+
+If you're experiencing issues with Bluetooth audio quality or playback, try adjusting the audio configuration manually:
+
+**Steps:**
+1. Go to **Settings → Bluetooth**  
+2. Click on your connected device  
+3. Open **Audio Settings**  
+4. Under **Configuration**, change it to:  
+   **High Fidelity Playback (A2DP Sink, SBC codec)**
+
+**Note:**  
+There’s a small bug (at least on some systems) where there is **no back button** on the Audio Settings page.  
+To go back, press **Right Alt/Option + Left Arrow** (left Alt didn’t work for the user, but *your mileage may vary*).
+
+---
+
 ## Quick Diagnostics
 
 ```bash
