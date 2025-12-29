@@ -2,9 +2,12 @@
 
 
 
+
 ---
 
 # Fixing bluetooth Audio (AAC) on Asahi Linux (aarch64).
+
+ # Edit: The issue is now completely resolved. After installing/updating to the latest version of Fedora Asahi Linux, everything works perfectly. The interference problems are gone, and I can browse the internet and use Bluetooth audio at the same time without any issues
 
 **Target distro:** Fedora Linux Asahi Remix 42 (Forty Two [Adams])  
 **Applies to:** Any Bluetooth headphones/earbuds using A2DP (AAC/SBC), e.g., AirPods Max, AirPods, Sony WH-1000XM series, Bose QC, etc.  
